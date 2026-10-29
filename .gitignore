@@ -1,0 +1,29 @@
+# Python virtual environment
+
+venv/
+.venv/
+
+# Python cache
+
+**pycache**/
+*.py[cod]
+
+# Jupyter Notebook temporary files
+
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+
+.env
+.env.*
+
+# Operating system files
+
+.DS_Store
+Thumbs.db
+
+# Editor settings
+
+.vscode/
+
+models/regression/best_regressor.pkl
